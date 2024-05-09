@@ -129,9 +129,13 @@ Execute the programs and publish them.
             <font face="Georgia" size="5">
 
                 This Hotel has conference and convention spaces, which make it an ideal choice for business meetings and official parties. 
+                
 The famous Lord Vishnu Sri Ranganathaswamy Temple is just a 10-minute drive away from the hotel.
-Central residency is located at a 10-minute driving distance from the Central Railway Station. 
+
+Central residency is located at a 10-minute driving distance from the Central Railway Station.
+
 Its on-site bar has a private seating area. </font>
+
         </p>
 
     </body>
@@ -201,7 +205,9 @@ Its on-site bar has a private seating area. </font>
         
             <font face="Georgia" size="5">
 
-                Established by Dr Prathap C Reddy in 1983, Apollo Healthcare has a robust presence across the healthcare ecosystem. From routine wellness & preventive health care to innovative life-saving treatments and diagnostic services, Apollo Hospitals has touched more than 200 million lives from over 120 countries.</font>
+                Established by Dr Prathap C Reddy in 1983, Apollo Healthcare has a robust presence across the healthcare ecosystem. From routine wellness & preventive health care to innovative life-saving treatments and diagnostic services, Apollo Hospitals has
+                
+touched more than 200 million lives from over 120 countries.</font>
         </p>
 
     </body>
@@ -236,12 +242,15 @@ Its on-site bar has a private seating area. </font>
         
             <font face="Georgia" size="5">
 
-                Banquet Halls is an enclosed space suitable for hosting a variety of events such as birthday parties, corporate events, engagement ceremonies, weddings, receptions, etc. They are beautifully designed and decorated to create an elegant ambience for any event you are hosting. Banquet halls can be booked for a stipulated time period during which the event has to take place. There are many banquet halls available in chennai that you can use based on your requirements.
+                Banquet Halls is an enclosed space suitable for hosting a variety of events such as birthday parties, corporate events, engagement ceremonies, weddings, receptions, etc. They are beautifully designed and decorated to create an elegant ambience for any 
+            
+event you are hosting. Banquet halls can be booked for a stipulated time period during which the event has to take place. There are many banquet halls available in chennai that you can use based on your requirements.
                 
                 you are on the hunt for a beautiful, well-connected hall, then get in touch with PSB MINI Function Hall . It provides many other services apart from event space and has a rating of 4.4 for its services.</font>
         </p>
 
     </body>
+    
 </html>
 
 
