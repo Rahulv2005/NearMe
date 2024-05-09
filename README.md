@@ -155,14 +155,11 @@ Its on-site bar has a private seating area. </font>
 
 
 ## OUTPUT
-![image](https://github.com/Rahulv2005/NearMe/assets/152600335/d2e12ee7-5abb-4451-b61c-4c6564535fe6)
 
-![image](https://github.com/Rahulv2005/NearMe/assets/152600335/f9338d55-f55a-4976-8bd5-d6bb4f382605)
+![WhatsApp Image 2024-05-09 at 13 49 02_65d75614](https://github.com/Rahulv2005/NearMe/assets/152600335/fd05fd61-bb57-4601-a485-91d3d6048a3b)
 
-![image](https://github.com/Rahulv2005/NearMe/assets/152600335/4b4fff03-d699-4097-8391-b47eaf41db56)
 
-![image](https://github.com/Rahulv2005/NearMe/assets/152600335/75615db2-3871-4d53-98df-a68af5454856)
-
+![WhatsApp Image 2024-05-09 at 13 49 18_2c80eca1](https://github.com/Rahulv2005/NearMe/assets/152600335/9755999d-52c6-4f59-be0e-8f6ac256bd26)
 
 
 
